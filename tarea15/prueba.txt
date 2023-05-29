@@ -1,0 +1,10 @@
+Esto es un archivo con texto
+para probar el programa vocales.
+Azul, rojo, amarillo
+Antón
+
+America, Europa, Asia 
+León, gato, oso
+¿Amigos?
+vamos (explicación), 1234
+Final de la prueba !adios.

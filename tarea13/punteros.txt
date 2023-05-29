@@ -1,0 +1,35 @@
+Declare la variable fpunt como puntero a un objeto de tipo float.Asígnele a la variable puntero fpunt la dirección de la variable numero1.
+float* fpunt = &numero1;
+
+Imprima el valor del dato al que apunta fpunt.
+cout << *fpunt << endl;
+
+Asígnele a la variable numero2 el valor del dato al que apunta fpunt.
+numero2 = *fpunt;
+
+Imprima el valor de numero2.
+cout << numero2 << endl;
+
+Imprima la dirección de numero1.
+cout << &numero1 << endl;
+
+Imprima la dirección almacenada en fpunt.
+cout << fpunt << endl;
+
+Asígnele a la variable puntero ptr la dirección del array s1.
+char* ptr = &s1[0];
+
+Utilice ptr para imprimir el caracter de la posición 5 del array s1.
+cout << *(ptr+5) << endl;
+
+Haga apuntar ptr a la posicion 10 del array s1.
+ptr = &s1[10];
+
+
+
+
+
+
+
+
+
